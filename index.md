@@ -1,6 +1,7 @@
 ---
   layout: default
   title: Welcome to NelsonCraft!
+  permalink: /index.html
 ---
 
 ## Rules
